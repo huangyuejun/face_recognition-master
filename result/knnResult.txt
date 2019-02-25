@@ -1,0 +1,24 @@
+D:\Users\jjw8610\Anaconda3\python.exe "D:\Program Files\JetBrains\PyCharm 2018.2\helpers\pydev\pydevconsole.py" 65382 65383
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['D:\\Downloads\\face_recognition-master', 'D:/Downloads/face_recognition-master'])
+Python 3.6.2 |Continuum Analytics, Inc.| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.1.0 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 6.1.0
+Python 3.6.2 |Continuum Analytics, Inc.| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)] on win32
+runfile('D:/Downloads/face_recognition-master/examples/face_recognition_knn.py', wdir='D:/Downloads/face_recognition-master/examples')
+Training KNN classifier...
+Training complete!
+Looking for faces in alex_lacamoire1.jpg
+- Found alex_lacamoire at (633, 206)
+Looking for faces in johnsnow_test1.jpg
+- Found kit_harington at (262, 180)
+Looking for faces in kit_with_rose.jpg
+- Found rose_leslie at (79, 130)
+- Found kit_harington at (247, 92)
+Looking for faces in obama1.jpg
+- Found obama at (546, 204)
+Looking for faces in obama_and_biden.jpg
+- Found biden at (737, 449)
+- Found obama at (1133, 390)
+- Found unknown at (1594, 1062)

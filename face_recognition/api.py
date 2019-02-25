@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-import pip
-pip.main(['install','dlib==19.16.99'])
+
 import PIL.Image
 import dlib
 import numpy as np

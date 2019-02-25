@@ -1,0 +1,590 @@
+
+
+D:\Users\jjw8610\Anaconda3\python.exe "D:\Program Files\JetBrains\PyCharm 2018.2\helpers\pydev\pydevconsole.py" 58918 58919
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['D:\\Downloads\\face_recognition-master', 'D:/Downloads/face_recognition-master'])
+Python 3.6.2 |Continuum Analytics, Inc.| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.1.0 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 6.1.0
+Python 3.6.2 |Continuum Analytics, Inc.| (default, Jul 20 2017, 12:30:02) [MSC v.1900 64 bit (AMD64)] on win32
+runfile('D:/Downloads/face_recognition-master/examples/find_faces_in_batches.py', wdir='D:/Downloads/face_recognition-master/examples')
+I found 0 face(s) in frame #0.
+I found 0 face(s) in frame #1.
+I found 0 face(s) in frame #2.
+I found 0 face(s) in frame #3.
+I found 0 face(s) in frame #4.
+I found 0 face(s) in frame #5.
+I found 0 face(s) in frame #6.
+I found 0 face(s) in frame #7.
+I found 0 face(s) in frame #8.
+I found 0 face(s) in frame #9.
+I found 0 face(s) in frame #10.
+I found 0 face(s) in frame #11.
+I found 0 face(s) in frame #12.
+I found 0 face(s) in frame #13.
+I found 0 face(s) in frame #14.
+I found 0 face(s) in frame #15.
+I found 0 face(s) in frame #16.
+I found 0 face(s) in frame #17.
+I found 0 face(s) in frame #18.
+I found 0 face(s) in frame #19.
+I found 1 face(s) in frame #20.
+ - A face is located at pixel location Top: 23, Left: 409, Bottom: 220, Right: 606
+I found 1 face(s) in frame #21.
+ - A face is located at pixel location Top: 10, Left: 387, Bottom: 246, Right: 623
+I found 1 face(s) in frame #22.
+ - A face is located at pixel location Top: 43, Left: 369, Bottom: 240, Right: 566
+I found 1 face(s) in frame #23.
+ - A face is located at pixel location Top: 34, Left: 339, Bottom: 270, Right: 575
+I found 1 face(s) in frame #24.
+ - A face is located at pixel location Top: 34, Left: 339, Bottom: 270, Right: 575
+I found 1 face(s) in frame #25.
+ - A face is located at pixel location Top: 58, Left: 315, Bottom: 294, Right: 551
+I found 1 face(s) in frame #26.
+ - A face is located at pixel location Top: 58, Left: 291, Bottom: 294, Right: 527
+I found 1 face(s) in frame #27.
+ - A face is located at pixel location Top: 82, Left: 291, Bottom: 318, Right: 527
+I found 1 face(s) in frame #28.
+ - A face is located at pixel location Top: 82, Left: 267, Bottom: 318, Right: 503
+I found 1 face(s) in frame #29.
+ - A face is located at pixel location Top: 82, Left: 267, Bottom: 318, Right: 503
+I found 1 face(s) in frame #30.
+ - A face is located at pixel location Top: 123, Left: 290, Bottom: 319, Right: 486
+I found 1 face(s) in frame #31.
+ - A face is located at pixel location Top: 123, Left: 290, Bottom: 319, Right: 486
+I found 1 face(s) in frame #32.
+ - A face is located at pixel location Top: 106, Left: 267, Bottom: 342, Right: 503
+I found 1 face(s) in frame #33.
+ - A face is located at pixel location Top: 106, Left: 267, Bottom: 342, Right: 503
+I found 1 face(s) in frame #34.
+ - A face is located at pixel location Top: 123, Left: 270, Bottom: 319, Right: 466
+I found 1 face(s) in frame #35.
+ - A face is located at pixel location Top: 143, Left: 290, Bottom: 339, Right: 486
+I found 1 face(s) in frame #36.
+ - A face is located at pixel location Top: 143, Left: 290, Bottom: 339, Right: 486
+I found 1 face(s) in frame #37.
+ - A face is located at pixel location Top: 143, Left: 290, Bottom: 339, Right: 486
+I found 1 face(s) in frame #38.
+ - A face is located at pixel location Top: 143, Left: 310, Bottom: 339, Right: 506
+I found 1 face(s) in frame #39.
+ - A face is located at pixel location Top: 143, Left: 310, Bottom: 339, Right: 506
+I found 1 face(s) in frame #40.
+ - A face is located at pixel location Top: 143, Left: 310, Bottom: 339, Right: 506
+I found 1 face(s) in frame #41.
+ - A face is located at pixel location Top: 143, Left: 329, Bottom: 339, Right: 526
+I found 0 face(s) in frame #42.
+I found 0 face(s) in frame #43.
+I found 0 face(s) in frame #44.
+I found 0 face(s) in frame #45.
+I found 0 face(s) in frame #46.
+I found 0 face(s) in frame #47.
+I found 0 face(s) in frame #48.
+I found 0 face(s) in frame #49.
+I found 0 face(s) in frame #50.
+I found 0 face(s) in frame #51.
+I found 0 face(s) in frame #52.
+I found 0 face(s) in frame #53.
+I found 0 face(s) in frame #54.
+I found 0 face(s) in frame #55.
+I found 0 face(s) in frame #56.
+I found 0 face(s) in frame #57.
+I found 0 face(s) in frame #58.
+I found 0 face(s) in frame #59.
+I found 0 face(s) in frame #60.
+I found 0 face(s) in frame #61.
+I found 0 face(s) in frame #62.
+I found 0 face(s) in frame #63.
+I found 0 face(s) in frame #64.
+I found 0 face(s) in frame #65.
+I found 0 face(s) in frame #66.
+I found 0 face(s) in frame #67.
+I found 0 face(s) in frame #68.
+I found 0 face(s) in frame #69.
+I found 0 face(s) in frame #70.
+I found 0 face(s) in frame #71.
+I found 0 face(s) in frame #72.
+I found 0 face(s) in frame #73.
+I found 0 face(s) in frame #74.
+I found 0 face(s) in frame #75.
+I found 0 face(s) in frame #76.
+I found 0 face(s) in frame #77.
+I found 0 face(s) in frame #78.
+I found 0 face(s) in frame #79.
+I found 0 face(s) in frame #80.
+I found 0 face(s) in frame #81.
+I found 1 face(s) in frame #82.
+ - A face is located at pixel location Top: 60, Left: 140, Bottom: 139, Right: 219
+I found 1 face(s) in frame #83.
+ - A face is located at pixel location Top: 60, Left: 129, Bottom: 155, Right: 224
+I found 1 face(s) in frame #84.
+ - A face is located at pixel location Top: 60, Left: 129, Bottom: 155, Right: 224
+I found 1 face(s) in frame #85.
+ - A face is located at pixel location Top: 60, Left: 139, Bottom: 155, Right: 234
+I found 1 face(s) in frame #86.
+ - A face is located at pixel location Top: 76, Left: 148, Bottom: 155, Right: 227
+I found 1 face(s) in frame #87.
+ - A face is located at pixel location Top: 84, Left: 156, Bottom: 163, Right: 235
+I found 1 face(s) in frame #88.
+ - A face is located at pixel location Top: 69, Left: 149, Bottom: 164, Right: 243
+I found 1 face(s) in frame #89.
+ - A face is located at pixel location Top: 69, Left: 149, Bottom: 164, Right: 243
+I found 1 face(s) in frame #90.
+ - A face is located at pixel location Top: 69, Left: 149, Bottom: 164, Right: 243
+I found 1 face(s) in frame #91.
+ - A face is located at pixel location Top: 76, Left: 164, Bottom: 155, Right: 243
+I found 1 face(s) in frame #92.
+ - A face is located at pixel location Top: 68, Left: 164, Bottom: 147, Right: 243
+I found 1 face(s) in frame #93.
+ - A face is located at pixel location Top: 76, Left: 172, Bottom: 155, Right: 251
+I found 1 face(s) in frame #94.
+ - A face is located at pixel location Top: 76, Left: 172, Bottom: 155, Right: 251
+I found 1 face(s) in frame #95.
+ - A face is located at pixel location Top: 76, Left: 172, Bottom: 155, Right: 251
+I found 1 face(s) in frame #96.
+ - A face is located at pixel location Top: 84, Left: 180, Bottom: 163, Right: 259
+I found 1 face(s) in frame #97.
+ - A face is located at pixel location Top: 92, Left: 188, Bottom: 171, Right: 267
+I found 1 face(s) in frame #98.
+ - A face is located at pixel location Top: 92, Left: 188, Bottom: 171, Right: 267
+I found 1 face(s) in frame #99.
+ - A face is located at pixel location Top: 92, Left: 188, Bottom: 171, Right: 267
+I found 1 face(s) in frame #100.
+ - A face is located at pixel location Top: 92, Left: 196, Bottom: 171, Right: 275
+I found 1 face(s) in frame #101.
+ - A face is located at pixel location Top: 100, Left: 204, Bottom: 179, Right: 283
+I found 1 face(s) in frame #102.
+ - A face is located at pixel location Top: 92, Left: 204, Bottom: 171, Right: 283
+I found 1 face(s) in frame #103.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #104.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #105.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #106.
+ - A face is located at pixel location Top: 68, Left: 204, Bottom: 147, Right: 283
+I found 1 face(s) in frame #107.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #108.
+ - A face is located at pixel location Top: 76, Left: 212, Bottom: 155, Right: 291
+I found 1 face(s) in frame #109.
+ - A face is located at pixel location Top: 76, Left: 212, Bottom: 155, Right: 291
+I found 1 face(s) in frame #110.
+ - A face is located at pixel location Top: 92, Left: 212, Bottom: 171, Right: 291
+I found 1 face(s) in frame #111.
+ - A face is located at pixel location Top: 100, Left: 212, Bottom: 179, Right: 291
+I found 1 face(s) in frame #112.
+ - A face is located at pixel location Top: 108, Left: 220, Bottom: 187, Right: 299
+I found 1 face(s) in frame #113.
+ - A face is located at pixel location Top: 100, Left: 212, Bottom: 179, Right: 291
+I found 1 face(s) in frame #114.
+ - A face is located at pixel location Top: 100, Left: 212, Bottom: 179, Right: 291
+I found 1 face(s) in frame #115.
+ - A face is located at pixel location Top: 92, Left: 212, Bottom: 171, Right: 291
+I found 1 face(s) in frame #116.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #117.
+ - A face is located at pixel location Top: 68, Left: 204, Bottom: 147, Right: 283
+I found 1 face(s) in frame #118.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #119.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #120.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #121.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #122.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #123.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #124.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #125.
+ - A face is located at pixel location Top: 40, Left: 187, Bottom: 135, Right: 282
+I found 1 face(s) in frame #126.
+ - A face is located at pixel location Top: 40, Left: 177, Bottom: 135, Right: 272
+I found 1 face(s) in frame #127.
+ - A face is located at pixel location Top: 31, Left: 187, Bottom: 126, Right: 282
+I found 1 face(s) in frame #128.
+ - A face is located at pixel location Top: 31, Left: 177, Bottom: 126, Right: 272
+I found 1 face(s) in frame #129.
+ - A face is located at pixel location Top: 31, Left: 177, Bottom: 126, Right: 272
+I found 1 face(s) in frame #130.
+ - A face is located at pixel location Top: 21, Left: 177, Bottom: 116, Right: 272
+I found 1 face(s) in frame #131.
+ - A face is located at pixel location Top: 21, Left: 177, Bottom: 116, Right: 272
+I found 1 face(s) in frame #132.
+ - A face is located at pixel location Top: 21, Left: 168, Bottom: 116, Right: 263
+I found 1 face(s) in frame #133.
+ - A face is located at pixel location Top: 21, Left: 158, Bottom: 116, Right: 253
+I found 1 face(s) in frame #134.
+ - A face is located at pixel location Top: 21, Left: 158, Bottom: 116, Right: 253
+I found 1 face(s) in frame #135.
+ - A face is located at pixel location Top: 21, Left: 149, Bottom: 116, Right: 243
+I found 1 face(s) in frame #136.
+ - A face is located at pixel location Top: 31, Left: 149, Bottom: 126, Right: 243
+I found 1 face(s) in frame #137.
+ - A face is located at pixel location Top: 40, Left: 149, Bottom: 135, Right: 243
+I found 1 face(s) in frame #138.
+ - A face is located at pixel location Top: 40, Left: 139, Bottom: 135, Right: 234
+I found 1 face(s) in frame #139.
+ - A face is located at pixel location Top: 40, Left: 139, Bottom: 135, Right: 234
+I found 1 face(s) in frame #140.
+ - A face is located at pixel location Top: 52, Left: 164, Bottom: 131, Right: 243
+I found 1 face(s) in frame #141.
+ - A face is located at pixel location Top: 44, Left: 164, Bottom: 123, Right: 243
+I found 1 face(s) in frame #142.
+ - A face is located at pixel location Top: 36, Left: 164, Bottom: 115, Right: 243
+I found 1 face(s) in frame #143.
+ - A face is located at pixel location Top: 31, Left: 158, Bottom: 126, Right: 253
+I found 1 face(s) in frame #144.
+ - A face is located at pixel location Top: 31, Left: 158, Bottom: 126, Right: 253
+I found 1 face(s) in frame #145.
+ - A face is located at pixel location Top: 21, Left: 168, Bottom: 116, Right: 263
+I found 1 face(s) in frame #146.
+ - A face is located at pixel location Top: 21, Left: 168, Bottom: 116, Right: 263
+I found 1 face(s) in frame #147.
+ - A face is located at pixel location Top: 36, Left: 188, Bottom: 115, Right: 267
+I found 1 face(s) in frame #148.
+ - A face is located at pixel location Top: 31, Left: 187, Bottom: 126, Right: 282
+I found 1 face(s) in frame #149.
+ - A face is located at pixel location Top: 31, Left: 187, Bottom: 126, Right: 282
+I found 1 face(s) in frame #150.
+ - A face is located at pixel location Top: 40, Left: 197, Bottom: 135, Right: 291
+I found 1 face(s) in frame #151.
+ - A face is located at pixel location Top: 40, Left: 206, Bottom: 135, Right: 301
+I found 1 face(s) in frame #152.
+ - A face is located at pixel location Top: 40, Left: 216, Bottom: 135, Right: 311
+I found 1 face(s) in frame #153.
+ - A face is located at pixel location Top: 50, Left: 225, Bottom: 145, Right: 320
+I found 1 face(s) in frame #154.
+ - A face is located at pixel location Top: 50, Left: 225, Bottom: 145, Right: 320
+I found 1 face(s) in frame #155.
+ - A face is located at pixel location Top: 40, Left: 235, Bottom: 135, Right: 330
+I found 1 face(s) in frame #156.
+ - A face is located at pixel location Top: 52, Left: 244, Bottom: 131, Right: 323
+I found 1 face(s) in frame #157.
+ - A face is located at pixel location Top: 31, Left: 245, Bottom: 126, Right: 339
+I found 1 face(s) in frame #158.
+ - A face is located at pixel location Top: 21, Left: 245, Bottom: 116, Right: 339
+I found 1 face(s) in frame #159.
+ - A face is located at pixel location Top: 21, Left: 245, Bottom: 116, Right: 339
+I found 1 face(s) in frame #160.
+ - A face is located at pixel location Top: 21, Left: 245, Bottom: 116, Right: 339
+I found 1 face(s) in frame #161.
+ - A face is located at pixel location Top: 31, Left: 235, Bottom: 126, Right: 330
+I found 1 face(s) in frame #162.
+ - A face is located at pixel location Top: 31, Left: 235, Bottom: 126, Right: 330
+I found 1 face(s) in frame #163.
+ - A face is located at pixel location Top: 31, Left: 235, Bottom: 126, Right: 330
+I found 1 face(s) in frame #164.
+ - A face is located at pixel location Top: 31, Left: 235, Bottom: 126, Right: 330
+I found 1 face(s) in frame #165.
+ - A face is located at pixel location Top: 31, Left: 225, Bottom: 126, Right: 320
+I found 1 face(s) in frame #166.
+ - A face is located at pixel location Top: 40, Left: 225, Bottom: 135, Right: 320
+I found 1 face(s) in frame #167.
+ - A face is located at pixel location Top: 50, Left: 216, Bottom: 145, Right: 311
+I found 1 face(s) in frame #168.
+ - A face is located at pixel location Top: 50, Left: 216, Bottom: 145, Right: 311
+I found 1 face(s) in frame #169.
+ - A face is located at pixel location Top: 50, Left: 216, Bottom: 145, Right: 311
+I found 1 face(s) in frame #170.
+ - A face is located at pixel location Top: 60, Left: 216, Bottom: 155, Right: 311
+I found 1 face(s) in frame #171.
+ - A face is located at pixel location Top: 69, Left: 206, Bottom: 164, Right: 301
+I found 1 face(s) in frame #172.
+ - A face is located at pixel location Top: 68, Left: 212, Bottom: 147, Right: 291
+I found 1 face(s) in frame #173.
+ - A face is located at pixel location Top: 69, Left: 197, Bottom: 164, Right: 291
+I found 1 face(s) in frame #174.
+ - A face is located at pixel location Top: 69, Left: 197, Bottom: 164, Right: 291
+I found 1 face(s) in frame #175.
+ - A face is located at pixel location Top: 84, Left: 204, Bottom: 163, Right: 283
+I found 1 face(s) in frame #176.
+ - A face is located at pixel location Top: 76, Left: 204, Bottom: 155, Right: 283
+I found 1 face(s) in frame #177.
+ - A face is located at pixel location Top: 68, Left: 204, Bottom: 147, Right: 283
+I found 1 face(s) in frame #178.
+ - A face is located at pixel location Top: 60, Left: 204, Bottom: 139, Right: 283
+I found 1 face(s) in frame #179.
+ - A face is located at pixel location Top: 60, Left: 204, Bottom: 139, Right: 283
+I found 1 face(s) in frame #180.
+ - A face is located at pixel location Top: 52, Left: 196, Bottom: 131, Right: 275
+I found 1 face(s) in frame #181.
+ - A face is located at pixel location Top: 44, Left: 196, Bottom: 123, Right: 275
+I found 1 face(s) in frame #182.
+ - A face is located at pixel location Top: 36, Left: 204, Bottom: 115, Right: 283
+I found 1 face(s) in frame #183.
+ - A face is located at pixel location Top: 36, Left: 204, Bottom: 115, Right: 283
+I found 1 face(s) in frame #184.
+ - A face is located at pixel location Top: 36, Left: 204, Bottom: 115, Right: 283
+I found 1 face(s) in frame #185.
+ - A face is located at pixel location Top: 36, Left: 204, Bottom: 115, Right: 283
+I found 1 face(s) in frame #186.
+ - A face is located at pixel location Top: 31, Left: 197, Bottom: 126, Right: 291
+I found 1 face(s) in frame #187.
+ - A face is located at pixel location Top: 36, Left: 212, Bottom: 115, Right: 291
+I found 1 face(s) in frame #188.
+ - A face is located at pixel location Top: 40, Left: 197, Bottom: 135, Right: 291
+I found 1 face(s) in frame #189.
+ - A face is located at pixel location Top: 40, Left: 197, Bottom: 135, Right: 291
+I found 1 face(s) in frame #190.
+ - A face is located at pixel location Top: 44, Left: 212, Bottom: 123, Right: 291
+I found 1 face(s) in frame #191.
+ - A face is located at pixel location Top: 44, Left: 220, Bottom: 123, Right: 299
+I found 1 face(s) in frame #192.
+ - A face is located at pixel location Top: 44, Left: 228, Bottom: 123, Right: 307
+I found 1 face(s) in frame #193.
+ - A face is located at pixel location Top: 40, Left: 216, Bottom: 135, Right: 311
+I found 1 face(s) in frame #194.
+ - A face is located at pixel location Top: 40, Left: 216, Bottom: 135, Right: 311
+I found 1 face(s) in frame #195.
+ - A face is located at pixel location Top: 40, Left: 225, Bottom: 135, Right: 320
+I found 1 face(s) in frame #196.
+ - A face is located at pixel location Top: 40, Left: 225, Bottom: 135, Right: 320
+I found 1 face(s) in frame #197.
+ - A face is located at pixel location Top: 40, Left: 235, Bottom: 135, Right: 330
+I found 1 face(s) in frame #198.
+ - A face is located at pixel location Top: 40, Left: 245, Bottom: 135, Right: 339
+I found 1 face(s) in frame #199.
+ - A face is located at pixel location Top: 40, Left: 245, Bottom: 135, Right: 339
+I found 1 face(s) in frame #200.
+ - A face is located at pixel location Top: 40, Left: 245, Bottom: 135, Right: 339
+I found 1 face(s) in frame #201.
+ - A face is located at pixel location Top: 40, Left: 245, Bottom: 135, Right: 339
+I found 1 face(s) in frame #202.
+ - A face is located at pixel location Top: 31, Left: 254, Bottom: 126, Right: 349
+I found 1 face(s) in frame #203.
+ - A face is located at pixel location Top: 31, Left: 254, Bottom: 126, Right: 349
+I found 1 face(s) in frame #204.
+ - A face is located at pixel location Top: 31, Left: 254, Bottom: 126, Right: 349
+I found 1 face(s) in frame #205.
+ - A face is located at pixel location Top: 44, Left: 276, Bottom: 123, Right: 355
+I found 1 face(s) in frame #206.
+ - A face is located at pixel location Top: 40, Left: 254, Bottom: 135, Right: 349
+I found 1 face(s) in frame #207.
+ - A face is located at pixel location Top: 40, Left: 254, Bottom: 135, Right: 349
+I found 1 face(s) in frame #208.
+ - A face is located at pixel location Top: 40, Left: 254, Bottom: 135, Right: 349
+I found 1 face(s) in frame #209.
+ - A face is located at pixel location Top: 40, Left: 254, Bottom: 135, Right: 349
+I found 1 face(s) in frame #210.
+ - A face is located at pixel location Top: 40, Left: 254, Bottom: 135, Right: 349
+I found 4 face(s) in frame #211.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 372, Bottom: 171, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #212.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 372, Bottom: 171, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #213.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 372, Bottom: 171, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #214.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 372, Bottom: 171, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #215.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 372, Bottom: 171, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #216.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #217.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #218.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #219.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #220.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #221.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 4 face(s) in frame #222.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #223.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #224.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #225.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #226.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #227.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #228.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #229.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #230.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #231.
+ - A face is located at pixel location Top: 52, Left: 308, Bottom: 131, Right: 387
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #232.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #233.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #234.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+I found 4 face(s) in frame #235.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 60, Left: 36, Bottom: 139, Right: 115
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+I found 4 face(s) in frame #236.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #237.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 372, Bottom: 179, Right: 451
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+I found 4 face(s) in frame #238.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+ - A face is located at pixel location Top: 92, Left: 148, Bottom: 171, Right: 227
+I found 4 face(s) in frame #239.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #240.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #241.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #242.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #243.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #244.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #245.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 36, Bottom: 131, Right: 115
+I found 4 face(s) in frame #246.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 52, Left: 28, Bottom: 131, Right: 107
+I found 4 face(s) in frame #247.
+ - A face is located at pixel location Top: 50, Left: 302, Bottom: 145, Right: 397
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 60, Left: 28, Bottom: 139, Right: 107
+I found 3 face(s) in frame #248.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+I found 3 face(s) in frame #249.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+I found 3 face(s) in frame #250.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+I found 3 face(s) in frame #251.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+ - A face is located at pixel location Top: 92, Left: 164, Bottom: 171, Right: 243
+I found 3 face(s) in frame #252.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+I found 3 face(s) in frame #253.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+I found 3 face(s) in frame #254.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 92, Left: 156, Bottom: 171, Right: 235
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459
+I found 3 face(s) in frame #255.
+ - A face is located at pixel location Top: 50, Left: 312, Bottom: 145, Right: 407
+ - A face is located at pixel location Top: 92, Left: 164, Bottom: 171, Right: 243
+ - A face is located at pixel location Top: 100, Left: 380, Bottom: 179, Right: 459

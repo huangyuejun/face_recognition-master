@@ -1,0 +1,34 @@
+D:\Users\jjw8610\Anaconda3\python.exe D:/Downloads/face_recognition-master/examples/benchmark.py
+Benchmarks (Note: All benchmarks are only using a single CPU core)
+
+Timings at 240p:
+Requirement already satisfied: dlib==19.16.99 in d:\users\jjw8610\anaconda3\lib\site-packages\dlib-19.16.99-py3.6-win-amd64.egg
+Collecting cmake (from dlib==19.16.99)
+  Downloading https://files.pythonhosted.org/packages/af/07/fd33446a4b8ca51f81d805f6a57f9594e24c1b530823a4c7436e4f468219/cmake-3.13.3-cp36-cp36m-win_amd64.whl (29.4MB)
+Installing collected packages: cmake
+Successfully installed cmake-3.13.3
+ - Face locations: 0.0787s (12.71 fps)
+ - Face landmarks: 0.0027s (376.80 fps)
+ - Encode face (inc. landmarks): 0.3999s (2.50 fps)
+ - End-to-end: 0.4792s (2.09 fps)
+
+Timings at 480p:
+ - Face locations: 0.3152s (3.17 fps)
+ - Face landmarks: 0.0026s (387.36 fps)
+ - Encode face (inc. landmarks): 0.4052s (2.47 fps)
+ - End-to-end: 0.7271s (1.38 fps)
+
+Timings at 720p:
+ - Face locations: 0.7257s (1.38 fps)
+ - Face landmarks: 0.0027s (374.04 fps)
+ - Encode face (inc. landmarks): 0.4025s (2.48 fps)
+ - End-to-end: 1.1379s (0.88 fps)
+
+Timings at 1080p:
+ - Face locations: 1.6693s (0.60 fps)
+ - Face landmarks: 0.0029s (350.76 fps)
+ - Encode face (inc. landmarks): 0.4156s (2.41 fps)
+ - End-to-end: 2.0826s (0.48 fps)
+
+
+Process finished with exit code 0
